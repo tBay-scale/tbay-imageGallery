@@ -1,6 +1,5 @@
 module.exports = [
   {
-    'id': 1,
     'product_name': 'Founders Fresh Metal Golf Clubs Fairway Woods Graphite Shaft Pick Flex & Loft',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/1-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/1-1.jpg',
@@ -13,8 +12,7 @@ module.exports = [
     'availability': 128
   },
   {
-    'id': 2,
-    'product_name': 'NEW Titleist Golf 2019 Midsize Staff Bag 6-way Top Black / White / Red',
+    'product_name': 'NEW Titleist Golf 20taff Bag 6-way Top Black / White / Red',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/2-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/2-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/2-2.jpg',
@@ -26,7 +24,6 @@ module.exports = [
     'availability': 851
   },
   {
-    'id': 3,
     'product_name': 'STIXX Biodegradable Golf Tees-Hard & Durable-100 Count(60 Long & 40 Short)',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/3-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/3-1.jpg',
@@ -39,7 +36,6 @@ module.exports = [
     'availability': 803
   },
   {
-    'id': 4,
     'product_name': 'New Srixon Golf Z F65 Fairway Wood Miyazaki Mizu Graphite Shaft - Pick Club',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/4-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/4-1.jpg',
@@ -52,7 +48,6 @@ module.exports = [
     'availability': 266
   },
   {
-    'id': 5,
     'product_name': 'New Cleveland Golf TFI 2135 Satin - 8.0 Putter, O/S Grip- Pick Length',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/5-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/5-1.jpg',
@@ -65,7 +60,6 @@ module.exports = [
     'availability': 553
   },
   {
-    'id': 6,
     'product_name': 'NEW 3 & 1/4\' 3.25 Champ Zarma Flytees Blue White Striped Golf Tees',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/6-0.jpg',
     'price': '$187915.83',
@@ -76,8 +70,7 @@ module.exports = [
     'availability': 623,
   },
   {
-    'id': 7,
-    'product_name': '500 - 3 1/4\' Pride Tees Evolution/Pride Performance Golf Tees ASSORTED MISPRINTS',
+    'product_name': '500 - 3 1/4\ Evolutioormance Golf Tees ASSORTED MISPRINTS',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/7-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/7-1.jpg',
     'price': '$406154.43',
@@ -88,7 +81,6 @@ module.exports = [
     'availability': 142
   },
   {
-    'id': 8,
     'product_name': 'NEW Zero Friction Golf Wood Tees Choose Quantity, Color & Length',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/8-0.png',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/8-1.jpg',
@@ -101,7 +93,6 @@ module.exports = [
     'availability': 38
   },
   {
-    'id': 9,
     'product_name': '200 Professional Bagged Hardwood Golf Tees FREE SHIPPING Made in USA',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/9-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/9-1.jpg',
@@ -114,7 +105,6 @@ module.exports = [
     'availability': 604
   },
   {
-    'id': 10,
     'product_name': 'MARTINI Step Up Golf Tees - 1 pack of 5 Assorted STEP-UP tees 3 1/4\'',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/10-0.jpg',
     'price': '$145611.36',
@@ -124,8 +114,7 @@ module.exports = [
     'condition': false,
     'availability': 249},
   {
-    'id': 11,
-    'product_name': 'New Taylormade Spider Tour Diamond Putter - Choose Model Length LH/RH',
+    'product_name': 'New Taylormadr Diamond Putter - Choose Model Length LH/RH',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/11-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/11-1.jpg',
     'price': '$543472.74',
@@ -136,7 +125,6 @@ module.exports = [
     'availability': 16
   },
   {
-    'id': 12,
     'product_name': '48 Titleist Pro V1 2018 Near Mint Used Golf Balls AAAA *In a Free Bucket!*SALE!*',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/12-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/12-1.jpg',
@@ -148,7 +136,6 @@ module.exports = [
     'availability': 99
   },
   {
-    'id': 13,
     'product_name': '100 AAAAA Used Golf Balls Assorted Brands MINT Condition! (Choose Your Own!)',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/13-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/13-1.png',
@@ -160,7 +147,6 @@ module.exports = [
     'availability': 183
   },
   {
-    'id': 14,
     'product_name': '120 Titleist Mix Good Quality Used Golf Balls AAA',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/14-0.jpg',
     'price': '$831763.59',
@@ -171,7 +157,6 @@ module.exports = [
     'availability': 906
   },
   {
-    'id': 15,
     'product_name': 'Custom Loaded Golf Cart Lifted Wheels Club Car Precedent 4 Passenger Stereo',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/15-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/15-1.jpg',
@@ -184,7 +169,6 @@ module.exports = [
     'availability': 47
   },
   {
-    'id': 16,
     'product_name': '50 AAA Nike Mix Used Golf Balls (3A) - FREE SHIPPING',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/16-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/16-1.jpg',
@@ -196,7 +180,6 @@ module.exports = [
     'availability': 165
   },
   {
-    'id': 17,
     'product_name': '24 AAA Assorted Color Matte Mix AAAA Used Golf Balls - FREE SHIPPING',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/17-0.png',
     'price': '$56184.69',
@@ -207,7 +190,6 @@ module.exports = [
     'availability': 10
   },
   {
-    'id': 18,
     'product_name': '48 Titleist Velocity Orange Mint Used Golf Balls AAAAA *In a Free Bucket!*',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/18-0.jpg',
     'price': '$986121.89',
@@ -218,7 +200,6 @@ module.exports = [
     'availability': 961
   },
   {
-    'id': 19,
     'product_name': 'Srixon Z-Cart Golf Bag 2015 Black',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/19-0.jpg',
     'price': '$136865.27',
@@ -229,7 +210,6 @@ module.exports = [
     'availability': 988
   },
   {
-    'id': 20,
     'product_name': 'TaylorMade TM 5.0 Golf Stand Bag New - Choose Color!',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/20-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/20-1.jpg',
@@ -242,8 +222,7 @@ module.exports = [
     'availability': 31
   },
   {
-    'id': 21,
-    'product_name': 'NEW Bridgestone Golf Lightweight Stand / Carry Bag 4-way Top - Pick the Color!!',
+    'product_name': 'NEe Golf Lightweight Stand / Carry Bag 4-way Top - Pick the Color!!',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/21-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/21-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/21-2.jpg',
@@ -255,20 +234,18 @@ module.exports = [
     'availability': 310
   },
   {
-    'id': 22,
     'product_name': 'Founders Club Premium Cart Bag With 14 Way Organizer Top - Charcoal',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/22-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/22-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/22-2.jpg',
     'price': '$915369.54',
-    'seller': 'National Grid Transco, PLC',
+    'seller': 'Nationaco, PLC',
     'rating': 9,
     'shipping': false,
     'condition': true,
     'availability': 65
   },
   {
-    'id': 23,
     'product_name': 'Sun Mountain C-130 Cart Golf Bag',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/23-0.jpeg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/23-1.jpg',
@@ -280,7 +257,6 @@ module.exports = [
     'availability': 250
   },
   {
-    'id': 24,
     'product_name': 'Sun Mountain C-130 Cart Golf Bag 19',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/24-0.jpeg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/24-1.jpg',
@@ -292,7 +268,6 @@ module.exports = [
     'availability': 926
   },
   {
-    'id': 25,
     'product_name': '2018 Callaway Rogue 10 Tour Staff Bag 5118253',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/25-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/25-1.jpg',
@@ -305,7 +280,6 @@ module.exports = [
     'availability': 926
   },
   {
-    'id': 26,
     'product_name': 'NIKE Golf Victory Polo Golf Shirts VARIOUS COLORS 509167- Men Size SMALL $24.99',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/26-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/26-1.jpg',
@@ -318,7 +292,6 @@ module.exports = [
     'availability': 721
   },
   {
-    'id': 27,
     'product_name': 'Nike Golf Mens M Black White Polo Shirt Striped Short Sleeve Dri-Fit',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/27-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/27-1.jpg',
@@ -331,7 +304,6 @@ module.exports = [
     'availability': 137
   },
   {
-    'id': 28,
     'product_name': 'Callaway Men\'s Chev SL Golf Shoes',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/28-0.png',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/28-1.png',
@@ -344,8 +316,7 @@ module.exports = [
     'availability': 564
   },
   {
-    'id': 29,
-    'product_name': 'Adidas adiPower S Bounce Men\'s Spikeless Golf Shoe NEW',
+    'product_name': 'Power S Bounce Men\'s Spikeless Golf Shoe NEW',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/29-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/29-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/29-2.jpg',
@@ -357,8 +328,7 @@ module.exports = [
     'availability': 504
   },
   {
-    'id': 30,
-    'product_name': 'Adidas Men\'s Tour 360 EQT Boa Golf Shoes, Brand New',
+    'product_name': '\'s Tour 360 EQT Boa Golf Shoes, Brand New',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/30-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/30-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/30-2.jpg',
@@ -370,8 +340,7 @@ module.exports = [
     'availability': 533
   },
   {
-    'id': 31,
-    'product_name': 'Adidas Men\'s Adicross Bounce Golf Shoes, New',
+    'product_name': '\'s Adicross Bounce Golf Shoes, New',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/31-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/31-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/31-2.jpg',
@@ -383,8 +352,7 @@ module.exports = [
     'availability': 478
   },
   {
-    'id': 32,
-    'product_name': 'Adidas Men\'s 360 Traxion Golf Shoes',
+    'product_name': '\'s 360 Traxion Golf Shoes',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/32-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/32-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/32-2.jpg',
@@ -396,7 +364,6 @@ module.exports = [
     'availability': 520
   },
   {
-    'id': 33,
     'product_name': 'Visor Sun Hat Golf Tennis Beach Mens Cap Adjustable Summer Plain Colors Sandwich',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/33-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/33-1.jpg',
@@ -409,8 +376,7 @@ module.exports = [
     'availability': 684
   },
   {
-    'id': 34,
-    'product_name': 'Adidas Taylormade Golf Tour Visor - Tour Preferred - Adjustable',
+    'product_name': 'lormade Golf Tour Visor - Tour Preferred - Adjustable',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/34-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/34-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/34-2.jpg',
@@ -422,7 +388,6 @@ module.exports = [
     'availability': 824
   },
   {
-    'id': 35,
     'product_name': 'TaylorMade Golf Ladies Women\'s Fashion Visor - One Size - Pick Color!',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/35-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/35-1.jpg',
@@ -435,7 +400,6 @@ module.exports = [
     'availability': 313
   },
   {
-    'id': 36,
     'product_name': 'Lotstring',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/36-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/36-1.jpg',
@@ -448,7 +412,6 @@ module.exports = [
     'availability': 864
   },
   {
-    'id': 37,
     'product_name': 'Callaway 2018 Tour Authentic Adjustable High Profile Golf Visor - Select Color!',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/37-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/37-1.jpg',
@@ -461,7 +424,6 @@ module.exports = [
     'availability': 574
   },
   {
-    'id': 38,
     'product_name': 'Ben Hogan Legend Men\'s Leather Golf Gloves - White - 3-PACK - Pick Size',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/38-0.jpg',
     'price': '$37839.69',
@@ -472,7 +434,6 @@ module.exports = [
     'availability': 690
   },
   {
-    'id': 39,
     'product_name': 'Golf Gloves Mens 2 Pack Ball Marker PerformanceGrip White Pick Size Bionic New',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/39-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/39-1.jpg',
@@ -485,7 +446,6 @@ module.exports = [
     'availability': 193
   },
   {
-    'id': 40,
     'product_name': 'Wilson Staff - New Men\'s Grip Soft Golf Glove - 2019',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/40-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/40-1.jpg',
@@ -498,7 +458,6 @@ module.exports = [
     'availability': 282
   },
   {
-    'id': 41,
     'product_name': 'NWT Under Armour Mens Match Play Vented Golf Blue Pants 1259430-408 30X30 $85',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/41-0.jpg',
     'price': '$847773.12',
@@ -509,21 +468,19 @@ module.exports = [
     'availability': 88
   },
   {
-    'id': 42,
     'product_name': 'Oakley Take 2.5 Golf Pants 421977 Men\'s Flat Front New - Choose Color & Size!',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/42-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/42-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/42-2.jpg',
     'price': '$67539.00',
-    'seller': 'VictoryShares Dividend Accelerator ETF',
+    'seller': 'VictorySharescelerator ETF',
     'rating': 8,
     'shipping': false,
     'condition': true,
     'availability': 177
   },
   {
-    'id': 43,
-    'product_name': 'Adidas Ultimate 365 Golf Pants Mens Sale TM6208F6 - Choose Color! & Size',
+    'product_name': 'imate 365 Golf Pants Mens Sale TM6208F6 - Choose Color! & Size',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/43-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/43-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/43-2.jpg',
@@ -535,8 +492,7 @@ module.exports = [
     'availability': 937
   },
   {
-    'id': 44,
-    'product_name': 'Adidas Golf Men\'s Ultimate365 Heather 5 Pocket Shorts, Brand New',
+    'product_name': 'Men\'s Ultimate365 Heather 5 Pocket Shorts, Brand New',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/44-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/44-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/44-2.jpg',
@@ -548,7 +504,6 @@ module.exports = [
     'availability': 390
   },
   {
-    'id': 45,
     'product_name': 'Mens Nike Aeroloft Golf Vest Gunsmoke (Gray) Men’s Size Large $190',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/45-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/45-1.jpg',
@@ -561,7 +516,6 @@ module.exports = [
     'availability': 513
   },
   {
-    'id': 46,
     'product_name': 'Women’s Nike Flex Golf Dress AV3668-506 Size XS, S, M, L',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/46-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/46-1.jpg',
@@ -574,7 +528,6 @@ module.exports = [
     'availability': 740
   },
   {
-    'id': 47,
     'product_name': 'Nike Golf Tour Performance Short Sleeve Athletic Womens Activewear Dress Black S',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/47-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/47-1.jpg',
@@ -587,7 +540,6 @@ module.exports = [
     'availability': 283
   },
   {
-    'id': 48,
     'product_name': 'Nike Golf Tour Performance Dress Dri-Fit Sz Med Pink Short Sleeve SP150711 New',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/48-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/48-1.jpg',
@@ -600,7 +552,6 @@ module.exports = [
     'availability': 744
   },
   {
-    'id': 49,
     'product_name': 'NWT Authentic NIKE GOLF Black Dri-Fit Active Women\'s Dress Size L',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/49-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/49-1.jpg',
@@ -613,7 +564,6 @@ module.exports = [
     'availability': 960
   },
   {
-    'id': 50,
     'product_name': 'NIKE GOLF Mens Pants WASHED Modern FIT FLAT FRONT 833190 max orange',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/50-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/50-1.jpg',
@@ -626,7 +576,6 @@ module.exports = [
     'availability': 978
   },
   {
-    'id': 51,
     'product_name': 'Total Tea Detox Tea | 100% Natural | Helps w/ Bloating Constipation | 25 teabags',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/51-0.png',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/51-1.png',
@@ -639,7 +588,6 @@ module.exports = [
     'availability': 23
   },
   {
-    'id': 52,
     'product_name': 'Triple Leaf Tea Blood Pressure Tea 20 Tea Bags Herbal NEW!',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/52-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/52-1.jpg',
@@ -652,7 +600,6 @@ module.exports = [
     'availability': 914
   },
   {
-    'id': 53,
     'product_name': 'Triple Leaf Tea Horny Goat Weed Tea Caffeine Free 20 Bag(S)',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/53-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/53-1.jpg',
@@ -665,7 +612,6 @@ module.exports = [
     'availability': 777
   },
   {
-    'id': 54,
     'product_name': 'Triple Leaf Tea Herbal Laxative Tea Caffeine Free 20 Tea bags',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/54-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/54-1.jpg',
@@ -678,7 +624,6 @@ module.exports = [
     'availability': 168
   },
   {
-    'id': 55,
     'product_name': 'Fine Japan fermented black oolong tea extract 1.5g x 33pcs supplement free ship',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/55-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/55-1.jpg',
@@ -691,7 +636,6 @@ module.exports = [
     'availability': 582
   },
   {
-    'id': 56,
     'product_name': 'NEW! Taiwan Oolong Tea Loose Leaf Organic Red Wulong Fresh Weight Loss FREE SHIP',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/56-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/56-1.jpg',
@@ -704,7 +648,6 @@ module.exports = [
     'availability': 345
   },
   {
-    'id': 57,
     'product_name': 'Puerh Tea Cake(1 cake, aged for about 65 years)',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/57-0.jpg',
     'price': '$388953.72',
@@ -715,7 +658,6 @@ module.exports = [
     'availability': 907
   },
   {
-    'id': 58,
     'product_name': 'Numi Aged Earl Grey Tea 10170',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/58-0.jpg',
     'price': '$241371.82',
@@ -726,7 +668,6 @@ module.exports = [
     'availability': 103
   },
   {
-    'id': 59,
     'product_name': '1970’s Zhong Cha Iron Cake Simplified Letters 330 gram',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/59-0.jpg',
     'price': '$644556.04',
@@ -737,7 +678,6 @@ module.exports = [
     'availability': 491
   },
   {
-    'id': 60,
     'product_name': '1.1 lb Tibet Wild Cordyceps sinensis Nourishing immune relieve stress 500 Grams',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/60-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/60-1.jpg',
@@ -750,7 +690,6 @@ module.exports = [
     'availability': 356
   },
   {
-    'id': 61,
     'product_name': '1950\'s Antique Hong Tai Chang Factory Aged Sheng (Raw) Pu-erh',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/61-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/61-1.jpg',
@@ -763,7 +702,6 @@ module.exports = [
     'availability': 107
   },
   {
-    'id': 62,
     'product_name': '1960\'s Guang Yun Imperial Green Beeng Cha',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/62-0.jpg',
     'price': '$568373.52',
@@ -774,7 +712,6 @@ module.exports = [
     'availability': 35
   },
   {
-    'id': 63,
     'product_name': '1990\'s Early 8653 Xiaguan Traditional letter (7) pu-erh tea',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/63-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/63-1.jpg',
@@ -786,7 +723,6 @@ module.exports = [
     'availability': 41
   },
   {
-    'id': 64,
     'product_name': 'Jinshenkang Sensual Tea (6 Pack) FREE 3-Day Shipping! Original Product!! 30 mins',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/64-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/64-1.jpg',
@@ -799,7 +735,6 @@ module.exports = [
     'availability': 559
   },
   {
-    'id': 65,
     'product_name': 'NOW Foods Organic Dandelion Tea, 24 Bags',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/65-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/65-1.jpg',
@@ -812,7 +747,6 @@ module.exports = [
     'availability': 717
   },
   {
-    'id': 66,
     'product_name': 'Matcha Green Tea Powder 50g(1.75oz) by PureChimp - Ceremonial Grade From Japan',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/66-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/66-1.jpg',
@@ -825,7 +759,6 @@ module.exports = [
     'availability': 525
   },
   {
-    'id': 67,
     'product_name': 'Organic Fermented Fireweed (Ivan-Chai) Tea. Detox Medicinal Herbal Tea',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/67-0.jpg',
     'price': '$495394.65',
@@ -836,7 +769,6 @@ module.exports = [
     'availability': 70
   },
   {
-    'id': 68,
     'product_name': 'Magic Herbal Tea 6 Potent Men’s tea Oolong Men’s Sexual Enchantment Tea 24 Bags',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/68-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/68-1.jpg',
@@ -849,7 +781,6 @@ module.exports = [
     'availability': 20
   },
   {
-    'id': 69,
     'product_name': 'Health King FEMALE JOY Enhanced Sexual Sensitivity Herb Tea 20 Bags',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/69-0.jpg',
     'price': '$743462.88',
@@ -860,7 +791,6 @@ module.exports = [
     'availability': 496
   },
   {
-    'id': 70,
     'product_name': 'Cats Claw Tea, Buddha Teas, 18 tea bag 1 pack',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/70-0.jpg',
     'price': '$79838.34',
@@ -871,7 +801,6 @@ module.exports = [
     'availability': 174
   },
   {
-    'id': 71,
     'product_name': 'Promotion 200g Ripe Pu\'er Chinese Puer Tea Brick tea Old Shu Pu-erh Ancient Tree',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/71-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/71-1.jpg',
@@ -884,7 +813,6 @@ module.exports = [
     'availability': 571
   },
   {
-    'id': 72,
     'product_name': 'RCMP Canadian Breakfast Tea 24 TBG Tin by Metropolitan Tea',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/72-0.png',
     'price': '$866873.05',
@@ -895,7 +823,6 @@ module.exports = [
     'availability': 846
   },
   {
-    'id': 73,
     'product_name': 'High-Quality Taiwan Alishan (Ali-mountain) High Mountain green tea, 6oz',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/73-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/73-1.jpg',
@@ -908,7 +835,6 @@ module.exports = [
     'availability': 560
   },
   {
-    'id': 74,
     'product_name': 'Akbar Cherry Flavoured Tea 20 Tea Bags',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/74-0.jpg',
     'price': '$152691.52',
@@ -919,7 +845,6 @@ module.exports = [
     'availability': 141
   },
   {
-    'id': 75,
     'product_name': '1980 Year Ripe Pu\'er 250g Chinese Ancient Tree Pu-erh Tea Puer Tea Brick organic',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/75-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/75-1.jpg',
@@ -932,7 +857,6 @@ module.exports = [
     'availability': 298
   },
   {
-    'id': 76,
     'product_name': 'Goofy Halloween Tea Set',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/76-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/76-1.jpg',
@@ -945,7 +869,6 @@ module.exports = [
     'availability': 534
   },
   {
-    'id': 77,
     'product_name': 'My Son\'s Favorite Tea Set',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/77-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/77-1.jpg',
@@ -958,18 +881,16 @@ module.exports = [
     'availability': 591
   },
   {
-    'id': 78,
     'product_name': 'Royal Blue from Amsterdam (Tea Set)',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/78-0.jpg',
     'price': '$771871.39',
-    'seller': 'Guidewire Software, Inc.',
+    'seller': 'Software, Inc.',
     'rating': 3,
     'shipping': false,
     'condition': false,
     'availability': 390
   },
   {
-    'id': 79,
     'product_name': 'Not too Shabby Tea Cup plus Saucer',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/79-0.jpg',
     'price': '$458570.27',
@@ -980,7 +901,6 @@ module.exports = [
     'availability': 182
   },
   {
-    'id': 80,
     'product_name': 'Silver and Gold Porcelain',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/80-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/80-1.jpg',
@@ -993,7 +913,6 @@ module.exports = [
     'availability': 56
   },
   {
-    'id': 81,
     'product_name': 'Grandma\'s Finest',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/81-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/81-1.jpg',
@@ -1006,7 +925,6 @@ module.exports = [
     'availability': 430
   },
   {
-    'id': 82,
     'product_name': 'Street Cat Tea Pot',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/82-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/82-1.jpg',
@@ -1019,7 +937,6 @@ module.exports = [
     'availability': 128
   },
   {
-    'id': 83,
     'product_name': 'Whittard Tea for Two',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/83-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/83-1.jpg',
@@ -1032,7 +949,6 @@ module.exports = [
     'availability': 574
   },
   {
-    'id': 84,
     'product_name': 'Mini Chintz Porcelain',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/84-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/84-1.jpg',
@@ -1045,7 +961,6 @@ module.exports = [
     'availability': 964
   },
   {
-    'id': 85,
     'product_name': 'Classy Tea Set',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/85-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/85-1.jpg',
@@ -1057,7 +972,6 @@ module.exports = [
     'availability': 704
   },
   {
-    'id': 86,
     'product_name': 'Weird Animal Style Ceramic',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/86-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/86-1.jpg',
@@ -1070,7 +984,6 @@ module.exports = [
     'availability': 154
   },
   {
-    'id': 87,
     'Hippie Coffee Tea Set': 'Toughjoyfax',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/87-0.jpg',
     'price': '$350341.00',
@@ -1081,7 +994,6 @@ module.exports = [
     'availability': 424
   },
   {
-    'id': 88,
     'product_name': 'Mayer Wiesau Tea Set',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/88-0.jpg',
     'price': '$446084.45',
@@ -1092,7 +1004,6 @@ module.exports = [
     'availability': 985
   },
   {
-    'id': 89,
     'product_name': 'Japanese Blue Willow China',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/89-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/89-1.jpg',
@@ -1105,20 +1016,18 @@ module.exports = [
     'availability': 37
   },
   {
-    'id': 90,
     'product_name': 'Flower and Bird Teacup',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/90-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/90-1.jpg',
     'pic_2': 'https://tbay44.s3-us-west-1.amazonaws.com/90-2.jpg',
     'price': '$510094.03',
-    'seller': 'WisdomTree U.S. SmallCap Quality Dividend Growth Fund',
+    'seller': 'WisdomTree U.S. SmallCap Qualityowth Fund',
     'rating': 10,
     'shipping': true,
     'condition': true,
     'availability': 875
   },
   {
-    'id': 91,
     'product_name': 'Fine English Bone China',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/91-0.jpg',
     'price': '$895344.08',
@@ -1129,7 +1038,6 @@ module.exports = [
     'availability': 396
   },
   {
-    'id': 92,
     'product_name': 'Aynsley Cup and Saucer',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/92-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/92-1.jpg',
@@ -1142,7 +1050,6 @@ module.exports = [
     'availability': 73
   },
   {
-    'id': 93,
     'product_name': 'Vintage Shelly Chintz',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/93-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/93-1.jpg',
@@ -1155,7 +1062,6 @@ module.exports = [
     'availability': 611
   },
   {
-    'id': 94,
     'product_name': 'Vintage Cup and Saucer',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/94-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/94-1.jpg',
@@ -1168,7 +1074,6 @@ module.exports = [
     'availability': 593
   },
   {
-    'id': 95,
     'product_name': 'Cup and Saucer, Too Fancy Even for the English',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/95-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/95-1.jpg',
@@ -1181,7 +1086,6 @@ module.exports = [
     'availability': 316
   },
   {
-    'id': 96,
     'product_name': 'Omelette du fromage French thingie',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/96-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/96-1.jpg',
@@ -1194,7 +1098,6 @@ module.exports = [
     'availability': 408
   },
   {
-    'id': 97,
     'product_name': 'Pink Chinese Cups',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/97-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/97-1.jpg',
@@ -1207,7 +1110,6 @@ module.exports = [
     'availability': 119
   },
   {
-    'id': 98,
     'product_name': 'Vintage Assorted Cups',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/98-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/98-1.jpg',
@@ -1220,7 +1122,6 @@ module.exports = [
     'availability': 387
   },
   {
-    'id': 99,
     'product_name': 'Butterfly Teacup',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/99-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/99-1.jpg',
@@ -1233,7 +1134,6 @@ module.exports = [
     'availability': 34
   },
   {
-    'id': 100,
     'product_name': 'Franz Porcelain',
     'prime_pic': 'https://tbay44.s3-us-west-1.amazonaws.com/100-0.jpg',
     'pic_1': 'https://tbay44.s3-us-west-1.amazonaws.com/100-1.jpg',
@@ -1246,3 +1146,5 @@ module.exports = [
     'availability': 571
   }
 ];
+
+
