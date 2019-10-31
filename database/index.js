@@ -1,11 +1,12 @@
 const mongoose = require('mongoose');
 const { Schema } = require('mongoose');
+// Uncomment line below and lines 21-71 to seed db with 10,000,000 items
 // const data = require('./data.js');
 
 
 // Retain schema and model for queries to proper collection in db
 const productSchema = new Schema({
-  'id': Number,
+  '_id': Number,
   'prime_pic': String,
   'pic_1': String,
   'pic_2': String,
@@ -16,7 +17,7 @@ const Product = mongoose.model('Product', productSchema);
 const connectionString = 'mongodb://127.0.0.1:27017/Products';
 mongoose.connect(connectionString, { useNewUrlParser: true, useUnifiedTopology: true });
 
-// autoIncrement.initialize(connection);
+
 // let newID = 1;
 
 // function createAllData () {
@@ -31,7 +32,7 @@ mongoose.connect(connectionString, { useNewUrlParser: true, useUnifiedTopology: 
 //   for (var i = 0; i < numItems; i++) {
 //     for (var k = 0; k < data.length; k++) {
 //       let dataCopy = createDeepCopy(data[k]);
-//       dataCopy.id = newID;
+//       dataCopy._id = newID;
 //       newID++;
 //       newData.push(dataCopy);
 //     }
@@ -51,18 +52,22 @@ mongoose.connect(connectionString, { useNewUrlParser: true, useUnifiedTopology: 
 // var iterations = 1;
 
 // function seed100000 () {
-//   setTimeout(function () {
-//     console.log(`Seeding ${newID} - ${newID + 99999}`)
-//     const items = createAllData();
-//     Product.insertMany(items);
+//   console.log(`Seeding ${newID} - ${newID + 99999}`)
+//   const items = createAllData();
+//   Product.insertMany(items)
+//   .then(() => {
 //     iterations++;
 //     if (iterations <= 100) {
 //       seed100000();
 //     }
-//   }, 15000)
+//     else {
+//       console.log('Finished');
+//     }
+//   })
 // }
 
 // seed100000();
+
 
 
 const getProductById = (id, callback) => {
