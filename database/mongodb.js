@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const { Schema } = require('mongoose');
-// Uncomment line below and lines 20-36 to seed mongoDB database with 10,000,000 items
-// const data = require('./dataGenerator.js');
+// Uncomment line below and lines 21-71 to seed db with 10,000,000 items
+// const generateBatchOfData = require('./dataGenerator.js');
 
 
 // Retain schema and model for queries to proper collection in db
@@ -11,7 +11,6 @@ const productSchema = new Schema({
   'pic_1': String,
   'pic_2': String,
 });
-
 
 const Product = mongoose.model('Product', productSchema);
 const connectionString = 'mongodb://127.0.0.1:27017/Products';
@@ -34,8 +33,6 @@ mongoose.connect(connectionString, { useNewUrlParser: true, useUnifiedTopology: 
 //   })
 // }
 // seed100000();
-
-
 
 const getProductById = (id, callback) => {
   Product.find({ id }, (err, docs) => {

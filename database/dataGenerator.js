@@ -30,3 +30,7 @@ function createDeepCopy (obj) {
   }
   return newObj;
 }
+
+module.exports = {
+  generateBatchOfData,
+}

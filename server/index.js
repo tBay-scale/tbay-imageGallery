@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const cors = require('cors');
-const db = require('../database/index.js');
+const mongodb = require('../database/mongodb.js');
 
 const PORT = 3003;
 const app = express();
@@ -18,7 +18,7 @@ app.listen(PORT, () => {
 });
 
 app.get('/product/:id', (req, res) => {
-  db.getProductById(req.params.id, (err, result) => {
+  mongodb.getProductById(req.params.id, (err, result) => {
     if (err) {
       res.send(err);
     } else {
